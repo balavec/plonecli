@@ -41,7 +41,7 @@ To upgrade plonecli just do:
     Note: Make sure that the install directory is in $PATH ( e.g. export PATH=$PATH:$HOME/.local/bin/  ) 
 
 NOTE:
-We are now using a the ORIGINAL version of the CLICK library, please uninstall plonecli-click before you install the new version of plonecli.
+We are now using the ORIGINAL version of the CLICK library, please uninstall plonecli-click before you install the new version of plonecli.
 
 If would like to use plonecli with pipenv, you can do it as follow:
 
