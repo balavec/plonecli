@@ -233,7 +233,7 @@ Setup Developer Environment
     $ cd plonecli
     $ virtualenv .
     $ source bin/activate
-    $ pip install -e .
+    $ pip install -e .[test,dev]
     $ plonecli --help
 
 
